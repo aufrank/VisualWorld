@@ -1,7 +1,7 @@
 #+TITLE:     README
 #+AUTHOR:    Austin F. Frank
 #+EMAIL:     austin.frank@gmail.com
-#+DATE:      
+#+DATE:      {{{modification-time(%Y-%m-%d)}}}
 #+LANGUAGE:  en
 #+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
@@ -20,15 +20,13 @@ cognitive science.
 ** Installation of VisualWorld
 *** Unix-like operating systems (Mac OS X, GNU/Linux)
 Start by downloading the dependencies listed above.  Install each of those, and then run
-
-#+BEGIN_SRC sh
+#+BEGIN_SRC sh :exports src
 python setup.by build
 sudo python setup.py install
 #+END_SRC
 
 or, if available,
-
-#+BEGIN_SRC sh
+#+BEGIN_SRC sh :exports src
 sudo pip install .
 #+END_SRC
 *** TODO Windows operating systems

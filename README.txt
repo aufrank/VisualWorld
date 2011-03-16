@@ -2,7 +2,7 @@
                                 ======
 
 Author: Austin F. Frank
-Date: 
+Date: {{{modification-time(2011-03-16)}}}
 
 
 This package implements several variations of the visual world
@@ -32,8 +32,12 @@ Unix-like operating systems (Mac OS X, GNU/Linux)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Start by downloading the dependencies listed above.  Install each of those, and then run
 
+  python setup.by build
+  sudo python setup.py install
 
 or, if available,
+
+  sudo pip install .
 
 TODO Windows operating systems 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
