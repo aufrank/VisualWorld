@@ -19,7 +19,8 @@ cognitive science.
 *** pylink
 ** Installation of VisualWorld
 *** Unix-like operating systems (Mac OS X, GNU/Linux)
-Start by downloading the dependencies listed above.  Install each of those, and then run
+Start by downloading the dependencies listed above.  Install each of
+those, and then run
 #+BEGIN_SRC sh :exports src
 python setup.by build
 sudo python setup.py install
@@ -38,3 +39,4 @@ sudo pip install .
 * TODO Reporting errors
 
 * TODO FAQ
+* TODO Credits
