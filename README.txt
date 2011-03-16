@@ -10,58 +10,42 @@ paradigm commonly used in psycholinguistics and other fields of
 cognitive science.
 
 
-Table of Contents
-=================
-1 Setup 
-    1.1 Dependencies 
-        1.1.1 Python 2.6 
-        1.1.2 Portaudio (for recording sounds) 
-        1.1.3 pylink 
-    1.2 Installation of VisualWorld 
-        1.2.1 Unix-like operating systems (Mac OS X, GNU/Linux) 
-        1.2.2 Windows operating systems 
-2 Running 
-3 Development 
-4 Reporting errors 
-5 FAQ 
+Setup 
+------
 
+TODO Dependencies 
+==================
 
-1 Setup 
---------
+Python 2.6 
+~~~~~~~~~~~
 
-1.1 TODO Dependencies 
-======================
+Portaudio (for recording sounds) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1.1.1 Python 2.6 
-~~~~~~~~~~~~~~~~~
+pylink 
+~~~~~~~
 
-1.1.2 Portaudio (for recording sounds) 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Installation of VisualWorld 
+============================
 
-1.1.3 pylink 
-~~~~~~~~~~~~~
-
-1.2 Installation of VisualWorld 
-================================
-
-1.2.1 Unix-like operating systems (Mac OS X, GNU/Linux) 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unix-like operating systems (Mac OS X, GNU/Linux) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Start by downloading the dependencies listed above.  Install each of those, and then run
 
 
 or, if available,
 
-1.2.2 TODO Windows operating systems 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TODO Windows operating systems 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-2 TODO Running 
----------------
+TODO Running 
+-------------
 
-3 TODO Development 
--------------------
+TODO Development 
+-----------------
 
-4 TODO Reporting errors 
-------------------------
+TODO Reporting errors 
+----------------------
 
-5 TODO FAQ 
------------
+TODO FAQ 
+---------
