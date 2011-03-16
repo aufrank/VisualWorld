@@ -1,0 +1,27 @@
+                     Project news for VisualWorld
+                     ============================
+
+Author: Austin F. Frank
+Date: 
+
+
+
+Table of Contents
+=================
+1 NEWS 
+    1.1 [2011-03-16 Wed] Initial build of package structure             :v0.1.1: 
+
+
+1 NEWS 
+-------
+
+1.1 [2011-03-16 Wed] Initial build of package structure             :v0.1.1: 
+=============================================================================
+   - Created package structure using [PasteScript] and [Modern Package Template].
+   - Imported stubs of demo files from previous development
+   - Initialized git repository
+
+
+   [PasteScript]: http://pythonpaste.org/script/
+   [Modern Package Template]: http://pypi.python.org/pypi/modern-package-template
+

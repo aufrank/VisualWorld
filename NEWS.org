@@ -1,0 +1,16 @@
+#+TITLE:     Project news for VisualWorld
+#+AUTHOR:    Austin F. Frank
+#+EMAIL:     austin.frank@gmail.com
+#+DATE:      
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+
+
+* NEWS
+** [2011-03-16 Wed] Initial build of package structure             :v0.1.1:
+   - Created package structure using [[http://pythonpaste.org/script/][PasteScript]] and [[http://pypi.python.org/pypi/modern-package-template][Modern Package
+     Template]].
+   - Imported stubs of demo files from previous development
+   - Initialized git repository
+

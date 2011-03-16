@@ -1,0 +1,42 @@
+#+TITLE:     README
+#+AUTHOR:    Austin F. Frank
+#+EMAIL:     austin.frank@gmail.com
+#+DATE:      
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+STARTUP:   indent
+
+This package implements several variations of the visual world
+paradigm commonly used in psycholinguistics and other fields of
+cognitive science.
+
+
+* Setup
+** TODO Dependencies
+*** Python 2.6
+*** Portaudio (for recording sounds)
+*** pylink
+** Installation of VisualWorld
+*** Unix-like operating systems (Mac OS X, GNU/Linux)
+Start by downloading the dependencies listed above.  Install each of those, and then run
+
+#+BEGIN_SRC sh
+python setup.by build
+sudo python setup.py install
+#+END_SRC
+
+or, if available,
+
+#+BEGIN_SRC sh
+sudo pip install .
+#+END_SRC
+*** TODO Windows operating systems
+
+* TODO Running
+
+* TODO Development
+
+* TODO Reporting errors
+
+* TODO FAQ
