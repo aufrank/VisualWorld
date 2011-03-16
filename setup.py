@@ -21,9 +21,9 @@ dependency_links = [
     # "https://www.sr-support.com/forums/showthread.php?t=14"
 ]
 
-setup(name='visualworld',
+setup(name='VisualWorld',
     version=version,
-    description="visual world experiments with eye tracking, mouse tracking, mouse and keyboard responses, and audio input and output",
+    description="Visual world experiments with eye tracking, mouse tracking, mouse and keyboard responses, and audio input and output",
     long_description=README + '\n\n' + NEWS,
     classifiers=[
       # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
